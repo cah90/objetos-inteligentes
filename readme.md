@@ -7,6 +7,10 @@ Esse é um projeto que faz parte da disciplina Objetos Inteligentes da Universid
 
 Esse projeto visa o desenvolvimento e a implementação de um programa que utilize um sensor, um atuador e o protocolo MQTT.
 
+Neste projeto, utilizamos um led como atuador, um sensor PIR de movimento, uma placa ESP32, protocolo MQTT e NodeRed.
+
+O intuito é que a partir de um movimento detectado, um led possa ser acesso e uma mensagem possa ser enviada para um número de whatsApp avisando se houve movimento ou não.
+
 
 ## Detalhes
 
